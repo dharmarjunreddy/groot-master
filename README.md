@@ -31,14 +31,6 @@ New canvas styles are imeplemented with preset configuration for plotting relate
 
 <img src="https://github.com/gavalian/groot/blob/master/images/multiplot_example.png" width="800">
 
-# Installation
-Simply add this [library jar](https://github.com/gavalian/groot/raw/master/jars/) to your build path in an IDE.
-
 # Requirements
 Java 1.8 or greater
 
-# Documentation
-Check out our [Wiki](https://github.com/gavalian/groot/wiki "GROOT Wiki")!
-
-# Feature requests and contributions
-One of the best ways to contribute is to give us feature requests and bug reports on the [issues page](https://github.com/gavalian/groot/issues "GROOT Issues page")! 
